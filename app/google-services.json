@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764051655623",
+    "firebase_url": "https://les-bruits-d-igor.firebaseio.com",
+    "project_id": "les-bruits-d-igor",
+    "storage_bucket": "les-bruits-d-igor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764051655623:android:595ac8278e1b14f5",
+        "android_client_info": {
+          "package_name": "com.projet.lesbruitsdigor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764051655623-iuo3185rbp8s62nthmubde4riqihv8fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc2Zq01CSv1pH1QZWzero5PQL5aQvrf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764051655623-iuo3185rbp8s62nthmubde4riqihv8fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
